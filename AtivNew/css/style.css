@@ -1,0 +1,195 @@
+body{
+	font-family: Arial, sans-serif;
+	line-height: 1.6;
+	background-color: #9c0c0c;
+	margin: 0;
+	padding: 0;
+	overflow-x: hidden;
+	height: 100%;
+
+}
+.Vasco{
+	width: 900px;
+	margin: 20px auto;
+	background: #D3D3D3;
+	padding: 20px;
+	box-shadow: 0 0 10px #00BFFF;
+}
+
+.payet{
+	text-align: center;
+	margin-bottom: 15px;
+
+
+}
+.payet img{
+	border-radius: 10%;
+	width: 150px;
+	height: 150px;
+	object-fit: cover;
+	border: 4px solid #40E0D0;
+
+}
+
+.Vegetti{
+	margin: 10px 0 5px;/* aumento da fonte*/
+	font-size: 30px;
+
+
+}
+
+.Pumita{
+	color: #494949;
+	font-size: 18px;
+	margin-bottom: 18px;
+}
+
+
+.profile .Pumita a {
+	text-decoration: none;
+	color:white;
+
+
+}
+.profile .Vegetti{
+	color: #3498db;
+	font-size: 19px;
+	margin-bottom: 10px;
+}
+
+.Dvd h2{
+	font-size: 20px;
+	color: #333;
+	border-bottom: 2px solid #3498db;
+
+
+
+}
+
+.dvd{
+	margin-bottom: 20px;
+}
+
+.JV{
+	font-size: 18px;
+	color: #333;
+	margin: 5px 0;
+
+}
+
+
+
+
+
+header{
+	background-color: #cb1913;
+	color: white;
+	padding: 40px;/* aumento de borda*/
+	text-align: center;
+
+}
+
+header a{
+	font-size: 30px;
+	color: rgb(11, 34, 164);
+	text-decoration: none;
+	margin: 0 20px;
+	font-weight: bold; /*negrito*/
+	padding: 10px 15px;
+	transition: background-color 0.3s, color 0.3x;
+	border-radius: 5px;
+}
+
+header a:hover{
+	background-color: rgb(145, 8, 8);
+	color: #27233a;
+
+
+}
+.parallax{
+	height: 100vh;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+.mengao{
+	padding: 50px;
+	text-align: center;
+	background-color: #600b0b;
+	color: #fafafa;
+}
+
+h1,h2{
+	font-size: 22px;
+	margin-bottom: 20px;
+
+}
+p{
+	font-size: 18px;
+	line-height: 1.6;
+}
+
+.parallax1{
+	background-image: url('../imagens/kyoKusanagi.jpeg');
+}
+
+.parallax2{
+	background-image: url('../imagens/iori.jpeg');
+}
+
+.parallax3{
+	background-image: url('../imagens/maikof.jpeg');
+}
+.parallax4{
+	background-image: url('../imagens/terrykof.jpeg');
+}
+.parallax5{
+	background-image: url('../imagens/rugalkof.jpeg');
+}
+.parallax6{
+	background-image: url('../imagens/ashkof.jpeg');
+}
+.parallax7{
+	background-image: url('../imagens/kdashkof.jpeg');
+}
+.parallax8{
+	background-image: url('../imagens/leonakof.jpeg');
+}
+
+.text1{
+	font-family: 'Verdana', sans-serif;
+    font-size: 14px;
+    text-align: center;
+    font-size: var();
+}
+.video1{
+	text-align: center;
+	border: 50px 10px solid white; 
+	border-color: white;
+	background-color: rgb(139, 3, 3);
+}
+iframe{
+	border: 6px solid;
+	border-color: rgb(78, 13, 13) ;
+
+}
+.text2{
+	font-family: 'Verdana', sans-serif;
+    font-size: 14px;
+	text-align: center;
+	font-size: var();
+	color: whitesmoke;
+}
+.text3{
+	font-family: 'Verdana', sans-serif;
+    font-size: 14px;
+	text-align: center;
+	font-size: var();
+	color: whitesmoke;
+}
+.text4{
+	text-align: center;
+	font-size: var();
+}
